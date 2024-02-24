@@ -1,0 +1,12 @@
+,name,artists,acousticness,liveness,instrumentalness,energy,danceability,valence
+16,Autumn In New York,BillieHoliday,0.958,0.114,7e-06,0.098,0.587,0.288
+14,My Romance,EllaFitzgerald,0.878,0.346,0.000258,0.292,0.184,0.143
+29,Chances Are - Single Version,JohnnyMathis,0.897,0.107,3.25e-06,0.254,0.31,0.296
+28,Mala Femmina,JerryVale,0.87,0.174,1.02e-06,0.29,0.176,0.183
+12,I'll Look Around,BillieHoliday,0.98,0.103,5.74e-05,0.0865,0.438,0.315
+36,Let's Get Lost,ChetBaker,0.84,0.108,0.000807,0.37,0.521,0.55
+42,Over The Rainbow,JudyGarland,0.972,0.121,8.99e-05,0.161,0.204,0.316
+37,Time After Time,MargaretWhiting,0.928,0.239,0.000623,0.173,0.236,0.279
+30,(We're Gonna) Rock Around The Clock,BillHaleyHisComets,0.205,0.0761,3.73e-06,0.859,0.811,0.784
+25,That Old Feeling,ChetBaker,0.633,0.143,4.24e-05,0.175,0.643,0.642
+6,MAKING MY WAY,Sơn Tùng M-TP,0.51,0.0834,0.664,0.712,0.612,0.235
